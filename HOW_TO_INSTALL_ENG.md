@@ -1,4 +1,5 @@
-Here is a step by step instruction, if you need more help after doing the steps you can join [we official discord server](https://discord.gg/P759p4nMsR)
+Here is a step by step instruction, if you need more help after doing the steps you can join [we official discord server](https://discord.gg/DG3k5w6QW3)
+P.S: sorry, but main server language is Russian, but I add ・name channel to all channels of server :)
 
 To install the Bot, you need to complete one of the easiest steps.
 
